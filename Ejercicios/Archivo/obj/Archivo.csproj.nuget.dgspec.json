@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tomasc\\Desktop\\Lagash\\Archivo\\Archivo.csproj": {}
+    "C:\\Users\\tomasc\\Desktop\\Lagash\\Ejercicios\\Archivo\\Archivo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tomasc\\Desktop\\Lagash\\Archivo\\Archivo.csproj": {
+    "C:\\Users\\tomasc\\Desktop\\Lagash\\Ejercicios\\Archivo\\Archivo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomasc\\Desktop\\Lagash\\Archivo\\Archivo.csproj",
+        "projectUniqueName": "C:\\Users\\tomasc\\Desktop\\Lagash\\Ejercicios\\Archivo\\Archivo.csproj",
         "projectName": "Archivo",
-        "projectPath": "C:\\Users\\tomasc\\Desktop\\Lagash\\Archivo\\Archivo.csproj",
+        "projectPath": "C:\\Users\\tomasc\\Desktop\\Lagash\\Ejercicios\\Archivo\\Archivo.csproj",
         "packagesPath": "C:\\Users\\tomasc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomasc\\Desktop\\Lagash\\Archivo\\obj\\",
+        "outputPath": "C:\\Users\\tomasc\\Desktop\\Lagash\\Ejercicios\\Archivo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,7 +8,7 @@ namespace Archivo{
     class Programa{
 
         static void EscribirEnArchivo(List<Persona> ListaDePersonas){
-        using (StreamWriter file = new StreamWriter(@"C:\Users\tomasc\Desktop\Lagash\Archivo\Nombres-Telefonos.txt",true))
+        using (StreamWriter file = new StreamWriter(@"C:\Users\tomasc\Desktop\Lagash\Ejercicios\Archivo\Nombres-Telefonos.txt",true))
         {
             foreach (Persona persona in ListaDePersonas){
                 string linea = string.Format("Nombre: {0} Telefono: {1}", persona.Nombre, persona.Telefono);
@@ -40,7 +40,7 @@ namespace Archivo{
         Personas.Add(persona4);
 
         EscribirEnArchivo(Personas); 
-        LeerDeArchivo(@"C:\Users\tomasc\Desktop\Lagash\Archivo\Nombres-Telefonos.txt");
+        LeerDeArchivo(@"C:\Users\tomasc\Desktop\Lagash\Ejercicios\Archivo\Nombres-Telefonos.txt");
         }
     }
 }
